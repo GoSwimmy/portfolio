@@ -5,6 +5,6 @@ return [
     'baseUrl' => '',
     'github' => 'https://github.com/GoSwimmy',
     'twitter' => '#',
-    'gmodstore' => '#',
+    'discord' => 'discord.com/users/200692983471931392',
     'collections' => [],
 ];

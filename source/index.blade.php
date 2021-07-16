@@ -19,16 +19,12 @@
                     <i class="fab fa-github fa-fw"></i>
                     Github
                 </a>
-                <a href="{{ $page->twitter }}" class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
-                    <i class="fab fa-twitter fa-fw"></i>
-                    Twitter
-                </a>
-                <a href="{{ $page->gmodstore }}" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="{{ $page->discord }}" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-gamepad fa-fw"></i>
-                    Gmodstore
+                    Discord
                 </a>
 
-                <a href="mailto:robertdennispersonal@gmail.com" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="mailto:goswimmy@gmail.com" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-mailbox fa-fw"></i>
                     Email
                 </a>
@@ -41,8 +37,8 @@
             <!-- ASAP -->
             <div class="flex flex-col lg:flex-row flex-1">
                 <div class="w-full lg:w-2/3 p-3 h-full flex flex-col items-center justify-center">
-                    <a href="https://asapgaming.co/">
-                        <img src="assets/img/asapgaming.png" alt="hero" class="m-auto h-auto shadow-lg rounded" />
+                    <a href="https://mcfriendly.us/">
+                        <img src="assets/img/mcfriendly.png" alt="hero" class="m-auto h-auto shadow-lg rounded" />
                     </a>
                 </div>
 
@@ -50,18 +46,18 @@
 
                     <div class="max-w-sm overflow-hidden text-left">
                         <div class="px-6 py-4">
-                            <a href="https://asapgaming.co/" class="text-2xl text-indigo-600 font-bold">Asapgaming</a>
-                            <p class="text-gray-400 text-sm font-light mb-4">Web Developer & Manager</p>
+                            <a href="https://mcfriendly.us/" class="text-2xl text-indigo-600 font-bold">MCFriendly</a>
+                            <p class="text-gray-400 text-sm font-light mb-4">Technical Manager</p>
                             <p class="leading-normal text-gray-200 text-base mb-4">
-                                Asapgaming is a large game community. I managed the staff and community. Along with being a full-time developer. The entire website was a managed all-in-one application that used
-                                Laravel, Vue, Mysql, and various API's.
+                                MCFriendly is one of the oldest Minecraft SMP servers out there. I was in charge of making sure the server ran smoothly and efficiently while keeping custom and public plugins up to date.
                             </p>
                         </div>
 
                         <div class="px-6 py-4">
-                            <span class="inline-block rounded-full bg-red-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-red-100 font-bold">Laravel</span>
-                            <span class="inline-block rounded-full bg-green-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-green-100 font-bold">Vue</span>
-                            <span class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-blue-100 font-bold">Mysql</span>
+                            <span class="inline-block rounded-full bg-red-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-red-100 font-bold">Java</span>
+                            <span class="inline-block rounded-full bg-green-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-green-100 font-bold">JavaScript</span>
+                            <span class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-blue-100 font-bold">MySQL</span>
+                            <span class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-blue-100 font-bold">PHP</span>
                         </div>
                     </div>
                 </div>

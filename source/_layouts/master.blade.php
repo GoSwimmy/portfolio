@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ mix('/css/main.css') }}">
 
     <script src="https://kit.fontawesome.com/7c49d53a03.js" integrity="sha384-NZ61boOcl3WY4W94TxWmzNrE/dZbP7g9IY8FECz/RXQXC1XKSv357JckOVRE8GM8" crossorigin="anonymous"></script>
-    <title>Atlas - Portfolio</title>
+    <title>GoSwimmy - Portfolio</title>
 </head>
 <body class="text-base leading-normal font-sans flex flex-col bg-gray-900" id="app">
 <div class="flex flex-grow content-center">
