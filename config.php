@@ -5,6 +5,6 @@ return [
     'baseUrl' => '',
     'github' => 'https://github.com/GoSwimmy',
     'twitter' => '#',
-    'discord' => 'discord.com/users/200692983471931392',
+    'discord' => 'https://discord.com/users/200692983471931392',
     'collections' => [],
 ];
