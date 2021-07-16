@@ -15,16 +15,16 @@
             My name is Sage, my online alias is GoSwimmy
             </p>
             <div class="flex justify-between max-w-sm mx-auto mt-5">
-                <a href="{{ $page->github }}" class="inline-block rounded-full bg-gray-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="{{ $page->github }}" target="_blank" class="inline-block rounded-full bg-gray-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="fab fa-github fa-fw"></i>
                     Github
                 </a>
-                <a href="{{ $page->discord }}" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="{{ $page->discord }}" target="_blank" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-gamepad fa-fw"></i>
                     Discord
                 </a>
 
-                <a href="mailto:goswimmy@gmail.com" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="mailto:goswimmy@gmail.com" target="_blank" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-mailbox fa-fw"></i>
                     Email
                 </a>
@@ -37,7 +37,7 @@
             <!-- ASAP -->
             <div class="flex flex-col lg:flex-row flex-1">
                 <div class="w-full lg:w-2/3 p-3 h-full flex flex-col items-center justify-center">
-                    <a href="https://mcfriendly.us/">
+                    <a href="https://mcfriendly.us/" target="_blank">
                         <img src="assets/img/mcfriendly.png" alt="hero" class="m-auto h-auto shadow-lg rounded" />
                     </a>
                 </div>
@@ -46,7 +46,7 @@
 
                     <div class="max-w-sm overflow-hidden text-left">
                         <div class="px-6 py-4">
-                            <a href="https://mcfriendly.us/" class="text-2xl text-indigo-600 font-bold">MCFriendly</a>
+                            <a href="https://mcfriendly.us/" target="_blank" class="text-2xl text-indigo-600 font-bold">MCFriendly</a>
                             <p class="text-gray-400 text-sm font-light mb-4">Technical Manager</p>
                             <p class="leading-normal text-gray-200 text-base mb-4">
                                 MCFriendly is one of the oldest Minecraft SMP servers out there. I was in charge of making sure the server ran smoothly and efficiently while keeping custom and public plugins up to date.
