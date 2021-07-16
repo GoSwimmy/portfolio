@@ -9,10 +9,10 @@
                     <img src="assets/img/icon.png" alt="hero" class="rounded-full block" />
                 </div>
             </div>
-            <div class="leading-tight text-3xl my-2 text-white font-bold">atlas</div>
+            <div class="leading-tight text-3xl my-2 text-white font-bold">GoSwimmy</div>
             <div class="text-gray-400 leading-tight mb-2">Fullstack Developer</div>
             <p class="text-gray-400 leading-normal mb-2">
-            My name is Robert, my nickname / internet name is Atlas. I own a startup and live to program.
+            My name is Sage, my online alias is GoSwimmy
             </p>
             <div class="flex justify-between max-w-sm mx-auto mt-5">
                 <a href="{{ $page->github }}" class="inline-block rounded-full bg-gray-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
