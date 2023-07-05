@@ -32,16 +32,33 @@
             <!-- ASAP -->
             <div class="flex flex-col lg:flex-row flex-1">
                 <div class="w-full lg:w-2/3 p-3 h-full flex flex-col items-center justify-center">
-                    <a href="https://mcfriendly.us/" target="_blank">
-                        <img src="assets/img/mcfriendly.png" alt="hero" class="m-auto h-auto shadow-lg rounded" />
+                    <a href="https://minewave.us" target="_blank">
+                        <img src="assets/img/minewave.png" alt="hero" class="m-auto h-auto shadow-lg rounded" />
                     </a>
                 </div>
 
                 <div class="w-full lg:w-1/3 p-3 h-full flex flex-col">
+                    <div class="max-w-sm overflow-hidden text-left">
+                        <div class="px-6 py-4">
+                            <a href="https://minewave.us" target="_blank" class="text-2xl text-indigo-600 font-bold">MineWave</a>
+                            <p class="text-gray-400 text-sm font-light mb-3">2023-Current</p>
+                            <p class="text-gray-400 text-sm font-light mb-4">Owner</p>
+                            <p class="leading-normal text-gray-200 text-base mb-4">
+                                Minewave is a small Minecraft server I am creating that will include Survival and eventually minigames and other gamemodes.
+                            </p>
+                        </div>
 
+                        <div class="px-6 py-4">
+                            <span class="inline-block rounded-full bg-red-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-red-100 font-bold">Java</span>
+                            <span class="inline-block rounded-full bg-green-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-green-100 font-bold">JavaScript</span>
+                            <span class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-blue-100 font-bold">MySQL</span>
+                            <span class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold mr-3 text-blue-100 font-bold">PHP</span>
+                        </div>
+                    </div>
                     <div class="max-w-sm overflow-hidden text-left">
                         <div class="px-6 py-4">
                             <a href="https://mcfriendly.us/" target="_blank" class="text-2xl text-indigo-600 font-bold">MCFriendly</a>
+                            <p class="text-gray-400 text-sm font-light mb-3">2014-2016</p>
                             <p class="text-gray-400 text-sm font-light mb-4">Technical Manager</p>
                             <p class="leading-normal text-gray-200 text-base mb-4">
                                 MCFriendly is one of the oldest Minecraft SMP servers out there. I was in charge of making sure the server ran smoothly and efficiently while keeping custom and public plugins up to date.
